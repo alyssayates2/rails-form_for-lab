@@ -18,4 +18,4 @@ describe SchoolClassesController do
     end
   end
 
-end
+end 
